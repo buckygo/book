@@ -1,0 +1,5 @@
+{
+  "name": "Gemini VoiceBook",
+  "description": "An intelligent e-book reader that transforms text into lifelike speech using Gemini 2.5 TTS.",
+  "requestFramePermissions": []
+}
